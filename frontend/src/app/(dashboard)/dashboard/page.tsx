@@ -117,6 +117,9 @@ export default function Dashboard() {
             <p className="text-muted-foreground text-base sm:text-lg">
               Here&apos;s an overview of your Text-to-Speech workspace
             </p>
+            <p className="text-sm font-semibold text-primary">
+              Powered by Ireme Soft Hub
+            </p>
           </div>
           <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
             <Card className="relative overflow-hidden">
