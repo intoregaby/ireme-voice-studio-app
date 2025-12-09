@@ -107,5 +107,4 @@ modal deploy tts.py  # Deploy TTS service
 
 ## Credits
 
-- Original project by [Sahand Ghavidel](https://github.com/sahandghavidel)
-- Rebranded for Ireme Soft Hub
+- Powered by [Ireme Soft Hub](https://github.com/iremesofthub)
